@@ -1,0 +1,21 @@
+.header {
+  background-color: $blue;
+    min-height: 100px;
+    display: flex;
+    margin-bottom: 15px;
+
+  &__open-popup {
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: $white;
+    background-color: $btn-blue;
+    padding: 8px 15px;
+    margin: auto 30px;
+    text-decoration: none;
+  }
+}
+
+
+

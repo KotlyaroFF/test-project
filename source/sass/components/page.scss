@@ -1,0 +1,14 @@
+.page {
+  background-color: $white;
+
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 1170px;
+    background-color: $lightBlue;
+    padding: 0 15px;
+
+  }
+}
